@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
 data:
-  AWS_BUCKET: XX
+  AWS_BUCKET: ctala-udagram
   AWS_PROFILE: default
   AWS_REGION: us-west-2
   JWT_SECRET: holahola
